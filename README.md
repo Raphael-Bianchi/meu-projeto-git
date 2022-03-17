@@ -1,4 +1,16 @@
-# meu-projeto-git
- Somente um repo de teste.
+# Meu primeiro projeto no GIT
 
-Adicionando algumas linhas.....
+
+[![HitCount](https://hits.dwyl.com/Raphael-Bianchi/Raphael-Bianchi/meu-projeto-git.svg)](https://hits.dwyl.com/Raphael-Bianchi/Raphael-Bianchi/meu-projeto-git)
+
+## Introdução ao GIT e GitHub
+
+Introdução dos conceitos de Staging, Commit, Push, Pull e Fork.
+
+## Autor
+
+* **Raphael Bianchi De Vicente** [Linkedin](https://www.linkedin.com/in/raphaelengenharia/)
+
+## Curso Devpleno
+
+Este projeto foi construído durantes as aulas do Fullstack Master do [DevPleno](https://devpleno.com/)
